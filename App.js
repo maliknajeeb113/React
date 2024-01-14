@@ -1,3 +1,6 @@
+import React from "react";
+import  ReactDOM from "react-dom/client";
+
 // for multiple elements
 
 const multiple = React.createElement(
@@ -7,8 +10,8 @@ const multiple = React.createElement(
     React.createElement("h1", { id: "insideH1" }, "This is H1"),
     React.createElement("h2", { id: "insideH2" }, "This is H2"),
   ]),React.createElement("div", { id: "innerDiv2" }, [
-    React.createElement("h1", { id: "insideH1" }, "This is H1"),
-    React.createElement("h2", { id: "insideH2" }, "This is H2"),
+    React.createElement("h1", { id: "insideH1" }, "This is next H1"),
+    React.createElement("h2", { id: "insideH2" }, "This is next H2"),
   ])]
 );
 

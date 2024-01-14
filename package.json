@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React Learning and Practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maliknajeeb113/React.git"
+  },
+  "keywords": [
+    "React",
+    "Learn"
+  ],
+  "author": "Malik Najeeb Ul Habib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maliknajeeb113/React/issues"
+  },
+  "homepage": "https://github.com/maliknajeeb113/React#readme"
+}

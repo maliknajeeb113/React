@@ -27,3 +27,16 @@ const heading = (<h1>
                 </h1>)
 
 ```
+
+You can use JS Snippets inside JSX using **Curly Braces { }**
+
+# React Components
+
+Two Types:
+- **Class Based Component** - Old
+- **Functional Component** - New
+
+React functional component is just a normal JS Function which returns some JSX element- Always start with a Capital letter.
+
+### Componet Composition
+Component within a component
